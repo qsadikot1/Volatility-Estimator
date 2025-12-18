@@ -1,5 +1,4 @@
-# Volatility Estimation and Risk Dynamics in US Equity Markets
-
+# Volatility Estimation and Risk Dynamics in US Equity Markets project
 **By Qasim Sadikot**
 
 ---
@@ -11,6 +10,12 @@ This project was built from scratch to understand how **quantitative finance mea
 Using the **SPDR S&P 500 ETF (SPY)** as a proxy for the US equity market, the project compares multiple volatility estimators to examine how assumptions about **time horizon and market memory** affect risk estimation.
 
 The focus was on learning fundamentals first, then gradually adding more advanced ideas.
+
+---
+
+## Example Output
+<img width="989" height="385" alt="spy_volatility" src="https://github.com/user-attachments/assets/9a1c1ef1-e5d5-433b-a780-98810205c814" />
+<img width="977" height="376" alt="spy_price" src="https://github.com/user-attachments/assets/4e69fb6e-de46-43e3-a62b-a964c7bce2bc" />
 
 ---
 
